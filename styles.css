@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 2% 8%;
+}
+img{
+    width: 60px;
+    height: 50px;
+}
+
+h1{
+    margin-top: 4%;
+    font-size: 6rem;
+}
+.navbar-brand{
+    margin-right: 4rem;
+
+}
+.card{
+    background-color: black;
+    color: white;
+    border: 2px solid green;
+    margin: 15% 0;
+
+}
+.earn-row{
+    padding: 0 8%;
+    /*width: 90%;*/
+}
+.earning-percent{
+    margin-right: 8%;
+}
+.second-row{
+    margin-top: 5%;
+}
+
+div p {
+    margin-bottom: 0;
+}
+.calculation-heading{
+    padding-bottom: 10%;
+}
+.calculation{
+    padding-left: 22%;
+}
+.btn{
+    background-color: green;
+    color:white;
+    width: 30%;
+    margin-top: 4%;
+    margin-left: 32%;
+}
+.form-select-lg{
+    border: 3px solid green;
+    background-color: black;
+    color: white;
+    /*width: 50%;*/
+}
+.FAQ-SECTION{
+    padding-bottom: 5%;
+}
+.FAQ-HEADING{
+    padding-bottom: 5%;
+}
